@@ -12,3 +12,4 @@ def longestpalindrome(s):
     return result
 s=input()
 print(longestpalindrome(s))
+
